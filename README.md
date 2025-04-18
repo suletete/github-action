@@ -187,11 +187,3 @@ jobs:
 ⚙️ *This lesson continues into setting up complex CI scenarios like building for multiple Node.js versions or OS combinations. You can specify matrices to parallelize your CI across versions/platforms.*
 
 ---
-
-If you'd like, I can help:
-- Convert this to a **PDF**
-- Create a **GitHub README**
-- Build a **real YAML CI pipeline project**
-- Add **interactive quizzes or visual diagrams**
-
-Let me know what you need next!
